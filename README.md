@@ -41,8 +41,8 @@ If you use this work, please cite:
 > Ansari, Rannah (2025). Empowering Whom? Evaluating the Political Consequences of Federal Empowerment Zones. Master’s Thesis, University of Barcelona, MSc in Institutions and Political Economy.
 
 ---
-
-##Author-Rannah Ansari 
+ 
+## Author-Rannah Ansari 
 MSc in Institutions & Political Economy  
 University of Barcelona, 2025  
 [LinkedIn](https://linkedin.com/in/rannah-ansari) | [GitHub](https://github.com/rannah-a)
